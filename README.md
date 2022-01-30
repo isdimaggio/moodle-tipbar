@@ -15,7 +15,7 @@ Questo step va ripetuto solo una volta.
 
 Dopo aver installato l'estensione, navighiamo fino alla pagina di Moodle e facciamo l'accesso. Una volta loggati, clicchiamo sull'estensione "CJS" e una volta attivato per l'host, incolliamo il codice JavaScript e premiamo "Save".
 
-install.png
+![install.png](https://github.com/isdimaggio/moodle-tipbar/blob/main/assets/install.png?raw=true)
 
 ### Personalizzazione
 Una volta installato, bisogna caricare tutte le righe degli appunti nel file.
@@ -25,7 +25,7 @@ Analogamente si può personalizzare il tasto per mostrare e nascondere la barra.
 
 Per applicare le modifiche basta premere il tasto save sull'estensione.
 
-customize.png
+![customize.png](https://github.com/isdimaggio/moodle-tipbar/blob/main/assets/customize.png?raw=true)
 
 ### Disinstallazione
 Per disinstallare la modifica basta rimuovere l'estensione.
@@ -34,9 +34,14 @@ Per disinstallare la modifica basta rimuovere l'estensione.
 
 ## Come usare
 Se la procedura di installazione è stata eseguita correttamente, per mostrare o nascondere la barra dei suggerimenti è sufficente **prmere il tasto di trigger** oppure aprire il menù utente e **cliccare su "Toggle Tipbar"**.
+
+![toggle.png](https://github.com/isdimaggio/moodle-tipbar/blob/main/assets/toggle.png?raw=true)
+
 Per cambiare appunto basta cliccare le frecce sulla textbox oppure selezionare la textbox ed usare le frecce della tastiera.
 
-arrows.png toggle.png
+![arrows.png](https://github.com/isdimaggio/moodle-tipbar/blob/main/assets/arrows.png?raw=true)
+
+
 
 -------------
 
